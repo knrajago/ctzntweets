@@ -5,7 +5,7 @@
   <groupId>com.github.ctzntweets</groupId>
   <artifactId>ctzntweets</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>ctzntweets</name>
   <url>http://maven.apache.org</url>
@@ -89,6 +89,14 @@
           <version>2.3</version>
           <configuration>
             <archiveClasses>true</archiveClasses>
+            <webResources>
+              <!-- in order to interpolate version from pom into appengine-web.xml -->
+              <resource>
+                <directory>${basedir}/src/main/webapp/WEB-INF</directory>
+                <filtering>true</filtering>
+                <targetPath>WEB-INF</targetPath>
+              </resource>
+            </webResources>
           </configuration>
         </plugin>
         <plugin>
