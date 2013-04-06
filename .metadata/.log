@@ -900,3 +900,30 @@ java.lang.NoSuchMethodException: org.eclipse.ui.internal.WorkbenchPage.closePers
 
 !ENTRY com.google.gdt.eclipse.suite 1 0 2013-04-05 21:49:02.563
 !MESSAGE Registering: com.google.appengine.eclipse.sdkbundle_1.7.5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2013-04-06 09:42:23.414
+!MESSAGE No projects found for [C:\workspace\ctzntweets\ctzntweets\pom.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2013-04-06 09:45:22.455
+!MESSAGE No projects found for [C:\workspace\ctzntweets\ctzntweets\pom.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2013-04-06 09:47:34.801
+!MESSAGE No projects found for [C:\workspace\ctzntweets\ctzntweets\pom.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2013-04-06 09:48:40.627
+!MESSAGE No projects found for [C:\workspace\ctzntweets\ctzntweets\pom.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2013-04-06 09:48:43.199
+!MESSAGE No projects found for [C:\workspace\ctzntweets\ctzntweets\pom.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2013-04-06 09:51:15.008
+!MESSAGE No projects found for [C:\workspace\ctzntweets\ctzntweets\pom.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2013-04-06 09:55:40.060
+!MESSAGE No projects found for [C:\workspace\ctzntweets\ctzntweets\pom.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2013-04-06 09:58:37.931
+!MESSAGE No projects found for [C:\workspace\ctzntweets\ctzntweets\pom.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2013-04-06 10:00:36.366
+!MESSAGE No projects found for [C:\workspace\ctzntweets\ctzntweets\pom.xml]

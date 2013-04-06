@@ -41,3 +41,359 @@
 2013-04-05 21:49:40,777 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
 2013-04-05 21:49:40,779 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2013-04-05 21:49:40,779 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-05 22:10:54,908 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:10:54,909 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-05 22:10:54,910 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:10:54,910 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-05 22:13:12,070 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:13:12,071 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-05 22:13:12,073 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:13:12,073 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-05 22:13:49,616 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:13:49,616 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-05 22:13:49,619 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:13:49,619 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-05 22:14:49,165 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:14:49,166 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-05 22:14:49,168 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:14:49,168 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-05 22:15:10,811 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:15:10,811 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-05 22:15:10,814 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:15:10,814 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-05 22:15:15,681 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:15:15,682 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-05 22:15:15,687 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:15:15,687 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-05 22:15:30,013 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:15:30,013 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-05 22:15:30,020 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:15:30,020 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-05 22:16:24,368 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:16:24,368 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-05 22:16:24,370 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:16:24,370 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-05 22:16:40,445 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:16:40,445 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-05 22:16:40,446 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:16:40,446 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-05 22:18:41,542 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:18:41,542 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-05 22:18:41,545 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 22:18:41,545 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:42:23,625 [Worker-135] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:42:23,718 [Worker-135] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-06 09:42:23,948 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j/maven-metadata.xml
+2013-04-06 09:42:23,952 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j/maven-metadata.xml
+2013-04-06 09:42:24,037 [Worker-135] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-06 09:42:24,124 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j/3.0.0/twitter4j-3.0.0.pom
+2013-04-06 09:42:24,129 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j/3.0.0/twitter4j-3.0.0.pom
+2013-04-06 09:42:24,234 [Worker-135] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-06 09:42:24,327 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j/3.0.1/twitter4j-3.0.1.pom
+2013-04-06 09:42:24,332 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j/3.0.1/twitter4j-3.0.1.pom
+2013-04-06 09:42:24,419 [Worker-135] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-06 09:42:24,526 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j/3.0.2/twitter4j-3.0.2.pom
+2013-04-06 09:42:24,532 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j/3.0.2/twitter4j-3.0.2.pom
+2013-04-06 09:42:24,640 [Worker-135] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-06 09:42:24,975 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j/3.0.3/twitter4j-3.0.3.pom
+2013-04-06 09:42:24,981 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j/3.0.3/twitter4j-3.0.3.pom
+2013-04-06 09:42:25,096 [Worker-135] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-06 09:42:25,175 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j/3.0.3/twitter4j-3.0.3.jar
+2013-04-06 09:42:25,281 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:42:25,281 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:42:25,282 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:42:25,283 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:42:32,281 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:42:32,281 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:42:32,282 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:42:32,282 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:43:25,113 [Worker-136] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-04-06 09:43:25,187 [Worker-136] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:43:25,293 [Worker-136] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/main/java
+2013-04-06 09:43:25,294 [Worker-136] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/test/java
+2013-04-06 09:43:25,365 [Worker-136] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-04-06 09:43:25,553 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:43:25,554 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:43:25,555 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:43:25,558 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:45:22,641 [Worker-134] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:45:22,698 [Worker-134] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-06 09:45:22,771 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/maven-metadata.xml
+2013-04-06 09:45:22,773 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/maven-metadata.xml
+2013-04-06 09:45:22,881 [Worker-134] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-06 09:45:22,981 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/3.0.0/twitter4j-async-3.0.0.pom
+2013-04-06 09:45:22,983 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/3.0.0/twitter4j-async-3.0.0.pom
+2013-04-06 09:45:23,053 [Worker-134] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-06 09:45:23,136 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/3.0.1/twitter4j-async-3.0.1.pom
+2013-04-06 09:45:23,141 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/3.0.1/twitter4j-async-3.0.1.pom
+2013-04-06 09:45:23,198 [Worker-134] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-06 09:45:23,292 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/3.0.2/twitter4j-async-3.0.2.pom
+2013-04-06 09:45:23,296 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/3.0.2/twitter4j-async-3.0.2.pom
+2013-04-06 09:45:23,360 [Worker-134] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-06 09:45:23,458 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/3.0.3/twitter4j-async-3.0.3.pom
+2013-04-06 09:45:23,462 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/3.0.3/twitter4j-async-3.0.3.pom
+2013-04-06 09:45:23,525 [Worker-134] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-06 09:45:23,575 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/3.0.3/twitter4j-async-3.0.3.jar
+2013-04-06 09:45:23,731 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/3.0.3/twitter4j-async-3.0.3.jar
+2013-04-06 09:45:24,080 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:24,080 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:45:24,082 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:24,082 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:45:25,322 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:25,322 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:45:25,323 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:25,324 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:45:29,701 [Worker-134] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-04-06 09:45:29,754 [Worker-134] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:45:29,870 [Worker-134] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/main/java
+2013-04-06 09:45:29,871 [Worker-134] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/test/java
+2013-04-06 09:45:29,927 [Worker-134] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-04-06 09:45:30,147 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:30,147 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:45:30,150 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:30,150 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:45:43,874 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:43,874 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:45:43,875 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:43,875 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:45:48,968 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:48,969 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:45:48,970 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:48,970 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:45:53,294 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:53,295 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:45:53,296 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:53,299 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:45:57,134 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:57,134 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:45:57,136 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:45:57,137 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:46:16,055 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:46:16,056 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:46:16,057 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:46:16,057 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:46:20,932 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:46:20,933 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:46:20,935 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:46:20,935 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:46:29,774 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:46:29,775 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:46:29,776 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:46:29,778 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:47:35,013 [Worker-142] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:47:35,152 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:47:35,153 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:47:35,154 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:47:35,154 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:47:43,086 [Worker-140] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-04-06 09:47:43,128 [Worker-140] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:47:43,261 [Worker-140] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/main/java
+2013-04-06 09:47:43,262 [Worker-140] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/test/java
+2013-04-06 09:47:43,317 [Worker-140] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-04-06 09:47:43,481 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:47:43,481 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:47:43,483 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:47:43,483 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:48:00,834 [Worker-140] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-04-06 09:48:00,885 [Worker-140] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:48:01,034 [Worker-140] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/main/java
+2013-04-06 09:48:01,035 [Worker-140] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/test/java
+2013-04-06 09:48:01,091 [Worker-140] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-04-06 09:48:01,275 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:48:01,275 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:48:01,276 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:48:01,276 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:48:40,812 [Worker-137] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:48:40,907 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:48:40,908 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:48:40,909 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:48:40,909 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:48:42,167 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:48:42,167 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:48:42,168 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:48:42,170 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:48:43,388 [Worker-134] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:48:43,474 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:48:43,474 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:48:43,475 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:48:43,476 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:51:15,207 [Worker-146] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:51:15,306 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:51:15,306 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:51:15,307 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:51:15,307 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:51:20,985 [Worker-145] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-04-06 09:51:21,079 [Worker-145] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:51:21,172 [Worker-145] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/main/java
+2013-04-06 09:51:21,173 [Worker-145] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/test/java
+2013-04-06 09:51:21,223 [Worker-145] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-04-06 09:51:21,453 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:51:21,453 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:51:21,454 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:51:21,454 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:51:31,749 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:51:31,749 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:51:31,751 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:51:31,751 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:51:35,944 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:51:35,944 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:51:35,945 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:51:35,945 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:51:42,882 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:51:42,882 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:51:42,883 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:51:42,883 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:52:05,318 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:52:05,318 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:52:05,319 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:52:05,319 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:52:12,940 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:52:12,941 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:52:12,942 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:52:12,942 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:54:38,106 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:54:38,107 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:54:38,108 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:54:38,108 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:55:40,268 [Worker-151] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:55:40,390 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:55:40,390 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:55:40,392 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:55:40,394 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:55:45,456 [Worker-149] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-04-06 09:55:45,508 [Worker-149] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:55:45,617 [Worker-149] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/main/java
+2013-04-06 09:55:45,618 [Worker-149] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/test/java
+2013-04-06 09:55:45,675 [Worker-149] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-04-06 09:55:45,823 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:55:45,823 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:55:45,824 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:55:45,824 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:58:29,586 [Worker-152] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-04-06 09:58:29,636 [Worker-152] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:58:29,783 [Worker-152] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/main/java
+2013-04-06 09:58:29,783 [Worker-152] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/test/java
+2013-04-06 09:58:29,840 [Worker-152] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-04-06 09:58:30,032 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:58:30,035 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:58:30,036 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:58:30,036 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:58:38,127 [Worker-155] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:58:38,226 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:58:38,226 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:58:38,227 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:58:38,227 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:58:39,470 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:58:39,470 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:58:39,471 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:58:39,471 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:58:46,042 [Worker-154] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-04-06 09:58:46,108 [Worker-154] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 09:58:46,218 [Worker-154] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/main/java
+2013-04-06 09:58:46,219 [Worker-154] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/test/java
+2013-04-06 09:58:46,268 [Worker-154] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-04-06 09:58:46,482 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:58:46,482 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:58:46,484 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:58:46,484 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 09:59:00,355 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:59:00,355 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 09:59:00,356 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 09:59:00,356 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:00:36,577 [Worker-156] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-06 10:00:36,713 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:00:36,714 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:00:36,715 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:00:36,716 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:01:34,362 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:01:34,363 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:01:34,366 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:01:34,366 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:01:43,673 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-06 10:01:43,895 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/3.0.3/twitter4j-async-3.0.3-sources.jar
+2013-04-06 10:01:43,996 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-async/3.0.3/twitter4j-async-3.0.3-sources.jar
+2013-04-06 10:01:44,186 [Worker-153] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.twitter4j:twitter4j-async:3.0.3
+2013-04-06 10:01:44,370 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:01:44,371 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:01:44,372 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:01:44,373 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:02:33,227 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:02:33,227 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:02:33,229 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:02:33,229 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:03:01,487 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:03:01,487 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:03:01,491 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:03:01,492 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:03:19,865 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:03:19,865 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:03:19,867 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:03:19,867 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:03:26,524 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:03:26,524 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:03:26,525 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:03:26,526 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:04:35,162 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:04:35,162 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:04:35,163 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:04:35,163 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:05:07,687 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:05:07,688 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:05:07,691 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:05:07,691 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:05:14,687 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:05:14,687 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:05:14,688 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:05:14,688 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:05:21,251 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:05:21,251 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:05:21,252 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:05:21,252 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:07:33,576 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:07:33,576 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:07:33,577 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:07:33,578 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:11:04,807 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:11:04,808 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:11:04,811 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:11:04,811 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:11:11,508 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:11:11,508 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:11:11,509 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:11:11,509 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 10:21:19,871 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:21:19,871 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 10:21:19,872 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 10:21:19,872 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 13:58:09,001 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 13:58:09,001 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 13:58:09,002 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 13:58:09,002 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 14:00:37,146 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:00:37,146 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 14:00:37,149 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:00:37,149 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 14:02:42,338 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:02:42,339 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 14:02:42,340 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:02:42,340 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 14:09:14,492 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:09:14,492 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 14:09:14,493 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:09:14,493 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 14:09:25,264 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:09:25,264 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 14:09:25,265 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:09:25,265 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 14:09:37,987 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:09:37,987 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 14:09:37,990 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:09:37,990 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 14:10:26,255 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:10:26,255 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 14:10:26,256 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:10:26,256 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-06 14:11:02,557 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:11:02,557 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-06 14:11:02,558 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-06 14:11:02,558 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
