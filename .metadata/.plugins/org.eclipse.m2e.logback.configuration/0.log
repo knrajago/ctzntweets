@@ -2,3 +2,42 @@
 2013-04-04 20:25:52,193 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
 2013-04-04 20:26:58,230 [Worker-7] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 68257 ms
 2013-04-04 21:19:33,431 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2013-04-05 06:52:05,506 [Worker-8] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2013-04-05 06:52:06,897 [Worker-8] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-05 06:53:09,298 [Worker-8] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 63825 ms
+2013-04-05 18:30:13,445 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2013-04-05 21:49:35,038 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-05 21:49:35,098 [Worker-79] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-05 21:49:35,251 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/maven-metadata.xml
+2013-04-05 21:49:35,257 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/maven-metadata.xml
+2013-04-05 21:49:35,342 [Worker-79] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-05 21:49:35,424 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/3.0.0/twitter4j-core-3.0.0.pom
+2013-04-05 21:49:35,430 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/3.0.0/twitter4j-core-3.0.0.pom
+2013-04-05 21:49:35,501 [Worker-79] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-05 21:49:35,565 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/3.0.1/twitter4j-core-3.0.1.pom
+2013-04-05 21:49:35,568 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/3.0.1/twitter4j-core-3.0.1.pom
+2013-04-05 21:49:35,647 [Worker-79] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-05 21:49:35,718 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/3.0.2/twitter4j-core-3.0.2.pom
+2013-04-05 21:49:35,723 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/3.0.2/twitter4j-core-3.0.2.pom
+2013-04-05 21:49:35,778 [Worker-79] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-05 21:49:35,884 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.pom
+2013-04-05 21:49:35,889 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.pom
+2013-04-05 21:49:35,948 [Worker-79] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-04-05 21:49:36,005 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.jar
+2013-04-05 21:49:36,376 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.jar
+2013-04-05 21:49:37,042 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-05 21:49:37,348 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 21:49:37,349 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-05 21:49:37,351 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 21:49:37,351 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
+2013-04-05 21:49:38,124 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/main/java
+2013-04-05 21:49:38,139 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/test/java
+2013-04-05 21:49:39,747 [Worker-79] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-04-05 21:49:39,950 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.ctzntweets:ctzntweets:1.0-SNAPSHOT @ C:\workspace\ctzntweets\ctzntweets\pom.xml.
+2013-04-05 21:49:40,391 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/main/java
+2013-04-05 21:49:40,396 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ctzntweets/src/test/java
+2013-04-05 21:49:40,439 [Worker-79] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-04-05 21:49:40,777 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 21:49:40,777 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\main\resources
+2013-04-05 21:49:40,779 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 21:49:40,779 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\ctzntweets\ctzntweets\src\test\resources
