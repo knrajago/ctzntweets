@@ -1,0 +1,14 @@
+package com.github.ctzntweets.cache;
+
+import java.util.concurrent.locks.ReentrantLock;
+
+public class TweetCache {
+	TweetCache() {
+		
+	}
+	
+	ReentrantLock lock = new ReentrantLock();
+	
+	// List<TweetInfo> getTweets(double pLatitude, double pLongitude)
+	// void clear()
+}

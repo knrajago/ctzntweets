@@ -1,0 +1,24 @@
+package com.github.ctzntweets.cache;
+
+import java.util.List;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.locks.ReentrantLock;
+
+import twitter4j.GeoLocation;
+
+public class TweetCache {
+	TweetCache() {
+		
+	}
+	
+	ReentrantLock lock = new ReentrantLock();
+	ConcurrentHashMap<String, String> map = null;
+	
+	// List<TweetInfo> getTweets(double pLatitude, double pLongitude)
+	// void clear()
+	
+	List<TweetInfo> getTweets(double pLatitude, double pLongitude) {
+		GeoLocation gLocation = new GeoLocation(pLatitude, pLongitude);
+		return null;
+	}
+}

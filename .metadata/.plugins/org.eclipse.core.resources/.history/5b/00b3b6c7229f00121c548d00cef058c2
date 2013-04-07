@@ -1,0 +1,35 @@
+package com.github.ctzntweets.cache;
+
+public class TweetInfo {
+	private double mLatitude;
+	private double mLongitude;
+	private TweetCategory mCategory;
+	private String mTweetText;
+	
+	public double getLatitude() {
+		return mLatitude;
+	}
+	public void setLatitude(double pLatitude) {
+		this.mLatitude = pLatitude;
+	}
+	public double getLongitude() {
+		return mLongitude;
+	}
+	public void setLongitude(double pLongitude) {
+		this.mLongitude = pLongitude;
+	}
+	public TweetCategory getCategory() {
+		return mCategory;
+	}
+	public void setCategory(TweetCategory pCategory) {
+		this.mCategory = pCategory;
+	}
+	public String getTweetText() {
+		return mTweetText;
+	}
+	public void setTweetText(String pTweetText) {
+		this.mTweetText = pTweetText;
+	}
+	
+	
+}

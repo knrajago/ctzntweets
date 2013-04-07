@@ -1,0 +1,14 @@
+package com.github.ctzntweets.cache;
+
+import java.util.concurrent.locks.ReadWriteLock;
+
+public class TweetCache {
+	TweetCache() {
+		
+	}
+	
+	ReadWriteLock lock = new ReadWriteLock();
+	
+	// List<TweetInfo> getTweets(double pLatitude, double pLongitude)
+	// void clear()
+}

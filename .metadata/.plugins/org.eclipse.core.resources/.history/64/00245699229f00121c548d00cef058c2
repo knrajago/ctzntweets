@@ -1,0 +1,8 @@
+package com.github.ctzntweets.cache;
+
+public class TweetInfo {
+	private double mLatitude;
+	private double mLongitude;
+	private TweetCategory mCategory;
+	private String pTweetText;
+}

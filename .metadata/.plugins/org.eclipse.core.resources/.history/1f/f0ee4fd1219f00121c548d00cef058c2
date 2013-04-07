@@ -1,0 +1,12 @@
+package com.github.ctzntweets.cache;
+
+public class TweetCache {
+	TweetCache() {
+		
+	}
+	
+	
+	
+	// List<TweetInfo> getTweets(double pLatitude, double pLongitude)
+	// void clear()
+}

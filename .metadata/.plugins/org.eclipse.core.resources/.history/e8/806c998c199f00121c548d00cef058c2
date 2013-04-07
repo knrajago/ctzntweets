@@ -1,0 +1,7 @@
+package com.github.ctzntweets.cache;
+
+public class TweetCache {
+	TweetCache() {
+		
+	}
+}

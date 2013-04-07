@@ -1,0 +1,43 @@
+package com.github.ctzntweets.twitter;
+
+import java.util.List;
+
+import twitter4j.Query;
+import twitter4j.QueryResult;
+import twitter4j.Status;
+import twitter4j.Twitter;
+import twitter4j.TwitterAdapter;
+import twitter4j.TwitterException;
+import twitter4j.TwitterFactory;
+import twitter4j.TwitterListener;
+import twitter4j.TwitterMethod;
+import twitter4j.conf.ConfigurationBuilder;
+
+public class TweetLoader {
+	public List<Status> getTweets(double pLatitude, double pLongitude, long pSince, long pUntil) throws TwitterException {
+		Twitter twitter = getTwitterInstance();
+	    // The factory instance is re-useable and thread safe.
+	    Query q = new Query();
+	    q.setQuery("#IPL");
+	    q.setCount(5);
+	    System.out.println(q.getQuery());
+	    QueryResult qResult = twitter.search(q);
+	    System.out.println(qResult.getRefreshURL());
+	    return qResult.getTweets();
+	}
+	
+	private Twitter getTwitterInstance() {
+	    ConfigurationBuilder cb = new ConfigurationBuilder();
+	    cb.setOAuthAccessToken("1332356904-hwRpa9LZGj9WeZUkxWoZQxDWVhsSjXFhhisZLUs");
+	    cb.setOAuthAccessTokenSecret("rD3QUAppbmdb2ksnrTvBtwkVX42MvHjazS43xj2T7fg");
+	    cb.setOAuthConsumerKey("tp9jqDkXXeacaiF0GfI1Q");
+	    cb.setOAuthConsumerSecret("v8nDozkHMTpkepDuzkXk6POzd0k7anhNqFVSxE3ig");
+	    
+	    TwitterFactory factory = new TwitterFactory(cb.build());
+	    return factory.getInstance();
+	}
+	
+	public static void main(String [] args) throws TwitterException {
+		new TweetLoader().getTweets();
+	}
+}
