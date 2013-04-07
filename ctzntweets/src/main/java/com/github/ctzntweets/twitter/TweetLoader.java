@@ -33,7 +33,7 @@ public class TweetLoader {
 	    return qResult.getTweets();
 	}
 	
-	private Twitter getTwitterInstance() {
+	public Twitter getTwitterInstance() {
 	    ConfigurationBuilder cb = new ConfigurationBuilder();
 	    cb.setOAuthAccessToken("1332356904-hwRpa9LZGj9WeZUkxWoZQxDWVhsSjXFhhisZLUs");
 	    cb.setOAuthAccessTokenSecret("rD3QUAppbmdb2ksnrTvBtwkVX42MvHjazS43xj2T7fg");

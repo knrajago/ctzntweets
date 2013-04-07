@@ -2,11 +2,19 @@ package com.github.ctzntweets.cache;
 
 import java.text.ParseException;
 import java.util.Calendar;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 
 import twitter4j.GeoLocation;
+import twitter4j.GeoQuery;
+import twitter4j.HashtagEntity;
+import twitter4j.Place;
+import twitter4j.Query;
+import twitter4j.QueryResult;
+import twitter4j.ResponseList;
 import twitter4j.Status;
+import twitter4j.Twitter;
 import twitter4j.TwitterException;
 
 import com.github.ctzntweets.twitter.TweetLoader;
@@ -16,47 +24,63 @@ public class TweetCache {
 		
 	}
 	
-	ConcurrentHashMap<GeoLocation, TweetInfo> map = new ConcurrentHashMap<GeoLocation, TweetInfo>();
+	private static long ALLOWED_DELAY = 30000;
 	
-	// List<TweetInfo> getTweets(double pLatitude, double pLongitude)
-	// void clear()
-	
-	List<TweetInfo> getTweets(double pLatitude, double pLongitude) {
-		GeoLocation gLocation = new GeoLocation(pLatitude, pLongitude);
+	private ConcurrentHashMap<String, List<TweetInfo>> map = new ConcurrentHashMap<String, List<TweetInfo>>();
+	private long mLastUpdateTime;
+
+	public List<TweetInfo> getTweets(double pLatitude, double pLongitude) throws TwitterException {
+		Place place = getPlace(pLatitude, pLongitude);
+		long curTime = Calendar.getInstance().getTimeInMillis();
 		
-		return null;
-	}
-	
-	private void loadTweets(double pLatitude, double pLongitude, long pSince, long pUntil) {
-		Calendar cal = Calendar.getInstance();
-		long until = cal.getTimeInMillis();
-		cal.set(Calendar.MONTH, 3);
-		long since = cal.getTimeInMillis();
-		try {
-			System.out.println("Since: " + since);
-			System.out.println("Until: " + until);
-			List<Status> tweets = new TweetLoader().getTweets(44.467111,-88.074517, since, until);
+		if ((this.mLastUpdateTime + ALLOWED_DELAY) < curTime) {
+			// Needs an update
+			List<Status> tweets = getTweetsSince(mLastUpdateTime);
+			mLastUpdateTime = curTime;
+			
 			for (Status oneTweet : tweets) {
-				GeoLocation gLoc = oneTweet.getGeoLocation();
-				if (gLoc == null) { 
-					System.out.println(" - " + oneTweet.getText());
-				} else {
-					System.out.println(gLoc.getLatitude() + "," + gLoc.getLongitude() + " - " + oneTweet.getText());
-				}
+				updateTweetInformation(oneTweet);
 			}
-		}catch(TwitterException tException) {
-			//TODO
 		}
-		catch(ParseException pEx) {
-			//TODO
-		}
-		System.out.println("\n");
-		//for (Status oneTweet : tweets) {
-		//	System.out.println(oneTweet.getUser().getName() + " - " + oneTweet.getText());
-		//}
+		
+		return map.get(place.getFullName());
 	}
 	
-	public static void main(String [] args) {
-		new TweetCache().loadTweets(0, 0, 0, 0);
+	public void clear() {
+		this.map.clear();
 	}
+	
+	private void updateTweetInformation(Status pTweet) {
+		if (pTweet == null) {
+			return;
+		}
+		
+		TweetInfo tInfo = new TweetInfo(pTweet);
+		String loc = tInfo.getLocation();
+		List<TweetInfo> tweetInfoList = this.map.get(loc);
+		if (tweetInfoList == null) {
+			tweetInfoList = new LinkedList<TweetInfo>();
+			this.map.put(loc, tweetInfoList);
+		}
+		tweetInfoList.add(tInfo);
+	}
+	
+	private List<Status> getTweetsSince(long since) throws TwitterException {
+		Twitter twttr = new TweetLoader().getTwitterInstance();
+		Query qry = new Query();
+	    qry.setQuery("@ctzntweets");
+	    QueryResult qryResults = twttr.search(qry);
+	    
+	    List<Status> tweets = qryResults.getTweets();
+	    return tweets;
+	}
+	
+	private Place getPlace(double pLatitude, double pLongitude) throws TwitterException {
+		Twitter twttr = new TweetLoader().getTwitterInstance();
+		GeoQuery query = null;
+        query = new GeoQuery(new GeoLocation(44.501189,-88.060355));
+        ResponseList<Place> places = twttr.searchPlaces(query);
+		return places.get(0);
+	}
+	
 }

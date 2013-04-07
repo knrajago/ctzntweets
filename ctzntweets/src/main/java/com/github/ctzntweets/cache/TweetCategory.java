@@ -4,6 +4,6 @@ public enum TweetCategory {
 	ACCIDENT,
 	TRAFFIC_JAM,
 	ROBBERY,
-	BRIBE,
+	BRIBERY,
 	OTHERS
 }
