@@ -1,3 +1,5 @@
 INDEX VERSION 1.126
 C:\workspace\ctzntweets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\755510253.index
 \ctzntweets\src\main\java
+/home/praga/sample/ctzntweets/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1368270393.index
+/ctzntweets/src/main/java
