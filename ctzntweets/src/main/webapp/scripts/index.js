@@ -1,5 +1,10 @@
       var map = null;
       var request = null;
+      var briberyCount = 0;
+      var accidentCount = 0;
+      var trafficjamCount = 0;
+      var robberyCount = 0;
+      var othersCount = 0;
       
       function showPosition(position)
       {
@@ -21,19 +26,34 @@
       {
       	if(request.readyState==4)
       	{
-      		var response = request.responseXML;
-      		var tweets=response.getElementsByTagName("Tweet");
-      		var tweet=tweets[0];
-      		var lat=tweet.getElementByTagName("Lat")[0].text;
-      		var lng=tweet.getElementByTagName("Lng")[0].text;
-      		var latlng= new google.maps.LatLng(lat,lng);
-      		var marker = new google.maps.Marker({
-                position: latlng,
-                map: map
-              });
-            map.setCenter(latlng);
-            map.setZoom(8);
-      	}
+      		accidentCount = 0;
+      		trafficjamCount = 0;
+      		briberyCount = 0;
+      		robberyCount = 0;
+      		othersCount = 0;
+
+      		var jsonObj = JSON.parse(request.responseText);
+      		for ( var i=0; i<jsonObj.length ; i++ )
+      		{
+      			var category = jsonObj[i].Category;
+      			//alert(category);
+      			switch(category)
+      			{
+      				case "ACCIDENT":accidentCount++; break;
+      				case "TRAFFIC_JAM": trafficjamCount++; break;
+      				case "ROBBERY": robberyCount++; break;
+      				case "BRIBERY": briberyCount++; break;
+      				default: othersCount++; 
+      			}
+      		}
+      		
+      		document.getElementById('accident').innerHTML = accidentCount;
+      		document.getElementById('trafficjam').innerHTML = trafficjamCount;
+      		document.getElementById('bribery').innerHTML = briberyCount;
+      		document.getElementById('robbery').innerHTML = robberyCount;
+      		document.getElementById('others').innerHTML = othersCount;
+      		
+       	}
       }
       
       function handlePositionError(evt) {

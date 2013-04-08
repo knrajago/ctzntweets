@@ -7,46 +7,50 @@
         html { height: 100% }
         body { height: 100%; margin: 0; padding: 0 }
         #map-canvas { height: 50% }
+        .span2
+        {
+        	background-image:url('images/circle.png');
+        	text-align: center;
+        	width: 140px;
+        	height: 130px
+        }
     </style>
   </head>
   <body> 
+
     <div id="map-canvas"> </div>
     <div class="container">
+    	<br><br>
     	<div class="row">
     		<div class="span2">
-    		<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
-  				<circle cx="100" cy="100" r="60" stroke="black" stroke-width="2" fill="blue" fill-opacity="0.2"/>
-  				<text x="100" y="100" fill="black" id="accident">5</text>
-  				<text x="80" y="180" fill="black">Accident</text>
-			</svg>
+    			<br><br>
+    			<div id='accident'>0</div>
+    			<br><br><br><br>
+    			<div>Accident</div>
     		</div>
     		<div class="span2">
-    		<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
-  				<circle cx="100" cy="100" r="60" stroke="black" stroke-width="2" fill="blue" fill-opacity="0.2"/>
-  				<text x="100" y="100" fill="black" id="trafficjam">5</text>
- 				<text x="80" y="180" fill="black">Traffic Jam</text>
-			</svg>
+    			<br><br>
+    			<div id='trafficjam'>0</div>
+    			<br><br><br><br>
+    			<div>Traffic Jam</div>
     		</div>
     		<div class="span2">
-    		<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
-  				<circle cx="100" cy="100" r="60" stroke="black" stroke-width="2" fill="blue" fill-opacity="0.2"/>
-  				<text x="100" y="100" fill="black" id="robbery">5</text>
- 				<text x="80" y="180" fill="black">Robbery</text>
-			</svg>
+    			<br><br>
+    			<div id='robbery'>0</div>
+    			<br><br><br><br>
+    			<div>Robbery</div>
     		</div>
     		<div class="span2">
-    		<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
-  				<circle cx="100" cy="100" r="60" stroke="black" stroke-width="2" fill="blue" fill-opacity="0.2"/>
-  				<text x="100" y="100" fill="black" id="bribe">5</text>
- 				<text x="80" y="180" fill="black">Bribe</text>
-			</svg>
+    			<br><br>
+    			<div id='bribery'>0</div>
+    			<br><br><br><br>
+    			<div>Bribery</div>
     		</div>
     		<div class="span2">
-    		<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
-  				<circle cx="100" cy="100" r="60" stroke="black" stroke-width="2" fill="blue" fill-opacity="0.2"/>
-  				<text x="100" y="100" fill="black" id="others">5</text>
- 				<text x="80" y="180" fill="black">Others</text>
-			</svg>
+    			<br><br>
+    			<div id='others'>0</div>
+    			<br><br><br><br>
+    			<div>Others</div>
     		</div>
     	</div>
     </div>

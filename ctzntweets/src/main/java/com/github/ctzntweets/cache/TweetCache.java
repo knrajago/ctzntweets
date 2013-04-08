@@ -1,10 +1,12 @@
 package com.github.ctzntweets.cache;
 
+import java.sql.Date;
 import java.text.ParseException;
 import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.logging.SimpleFormatter;
 
 import twitter4j.GeoLocation;
 import twitter4j.GeoQuery;
@@ -35,11 +37,15 @@ public class TweetCache {
 		
 		if ((this.mLastUpdateTime + ALLOWED_DELAY) < curTime) {
 			// Needs an update
-			List<Status> tweets = getTweetsSince(mLastUpdateTime);
-			mLastUpdateTime = curTime;
-			
-			for (Status oneTweet : tweets) {
-				updateTweetInformation(oneTweet);
+			synchronized(this) {
+				if ((this.mLastUpdateTime + ALLOWED_DELAY) < curTime) {
+					List<Status> tweets = getTweetsSince(mLastUpdateTime);
+					mLastUpdateTime = curTime;
+					
+					for (Status oneTweet : tweets) {
+						updateTweetInformation(oneTweet);
+					}
+				}
 			}
 		}
 		
@@ -78,7 +84,7 @@ public class TweetCache {
 	private Place getPlace(double pLatitude, double pLongitude) throws TwitterException {
 		Twitter twttr = new TweetLoader().getTwitterInstance();
 		GeoQuery query = null;
-        query = new GeoQuery(new GeoLocation(44.501189,-88.060355));
+        query = new GeoQuery(new GeoLocation(pLatitude,pLongitude));
         ResponseList<Place> places = twttr.searchPlaces(query);
 		return places.get(0);
 	}

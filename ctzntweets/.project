@@ -20,4 +20,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/webapp/images/circle.png</name>
+			<type>1</type>
+			<location>/home/praga/sample/ctzntweets/ctzntweets/src/main/webapp/image_old/circle.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>
